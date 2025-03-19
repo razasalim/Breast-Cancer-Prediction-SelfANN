@@ -5,6 +5,7 @@ The main objective of this project is to build a custom artificial neural networ
 ## How the code works:
 Please refer to the attached 'Project Description' PDF for details.
 
-## Dependences to Run the Code: 
-There are no external dependencies required to run the code. It is designed to run directly on Jupyter notebooks or any other platform supporting .ipynb files, using only Python's built-in functionalities.
+## How to Run the Code: 
+- After downloading the 'BreastCancerPrediction_SelfANN.ipynb' code and the 'BreastCancerData.csv' dataset, update the file path for the dataset in the code. 
+- The code has no external dependencies and is designed to run directly on Jupyter notebooks or any platform that supports .ipynb files, using only Python's built-in functionalities. 
 
